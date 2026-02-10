@@ -4,7 +4,7 @@ A classic **Snake Game** built with Python's `turtle` graphics module — featur
 
 ## 🎮 Demo
 
-https://github.com/user-attachments/assets/Snake_game_demo.mp4
+https://github.com/DharmikMangukiya/Snake-Game/blob/main/Result/Snake_game_demo.mp4
 
 > **📁 The full gameplay video is available in the [`Result/`](Result/) folder.**
 
